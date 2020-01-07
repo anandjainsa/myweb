@@ -49,7 +49,7 @@ pipeline {
 
                     // Let's clone the source
 
-                    git 'https://github.com/anandjainsa/my-app.git';
+                    git 'https://github.com/anandjainsa/myweb.git';
 
                 }
 
